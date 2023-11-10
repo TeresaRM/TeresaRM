@@ -23,14 +23,15 @@
 ### :woman_technologist: &nbsp;About Me :
 - 🔭 I’m currently undertaking master...
 - 🌱 I'm _kinda_ multidisciplinary: from studying Computational Chemistry as an undergrad to completing a PGCert in Social Robotics and HRI (_Human-Robot Interactions_). 
-- 👨‍💻 I have a personal website here: [https://teresarm.carrd.co/](https://teresarm.carrd.co/)
+- 👨‍💻 I have a personal <img align="center" src="https://img.shields.io/badge/Portfolio%20Website-purple?style=plastic" alt="Portfolio Website Badge"/><a href="https://teresarm.carrd.co/#"></a>
 - 📫 You can reach me at **teresaromu1999@gmail.com** or on social media!
 
 <!-- Social Media -->
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/tere_wisdom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tere_wisdom" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/teresarodriguezm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teresarodriguezm" height="30" width="40" /></a>
+  <a href="https://twitter.com/tere_wisdom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tere_wisdom" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/teresarodriguezm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teresarodriguezm" height="30" width="40" /></a> &nbsp
+  <img align="center" src="https://dcbadge.vercel.app/api/shield/759807783511654400?compact=true&style=social"/>
 </p>
 
 ---
@@ -68,10 +69,11 @@
 
 <!-- Github Stats -->
 ### 🔥 &nbsp; My Stats :
-<p>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teresarm&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="teresarm" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teresarm&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="teresarm" /> &nbsp&nbsp&nbsp
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=teresarm&show_icons=true&locale=en&theme=cobalt" alt="teresarm" />
 </p>
+
 
 ---
 
