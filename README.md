@@ -16,13 +16,12 @@
     <a href="https://discord.com/users/759807783511654400"><img src="https://img.shields.io/badge/Discord-darkblue?style=plastic&logo=discord&logoColor=white" alt="Discord Badge"/></a>&nbsp&nbsp
     <a href="https://itsteresa.itch.io/"><img src="https://img.shields.io/badge/My%20Games-violet?style=plastic" alt="Itch.io Portfolio"/></a>&nbsp&nbsp&nbsp
     <a href="https://teresarm.carrd.co/"><img src="https://img.shields.io/badge/Personal%20Website-purple?style=plastic" alt="Personal Website Badge"/></a>&nbsp&nbsp&nbsp
-    <a href="https://play.google.com/store/apps/dev?id=9106694472686169862"><img src="https://img.shields.io/badge/Google%20Play%20Developer-darkgreen?style=plastic" alt="Google Play Developer Badge"/></a>&nbsp&nbsp&nbsp
+    <a href="https://play.google.com/store/apps/dev?id=9106694472686169862"><img src="https://img.shields.io/badge/Google%20Play%20Developer-darkgreen?style=plastic" alt="Google Play Developer Badge"/></a>
   <p/>
 </div>
-</br>
 
 <!-- Main Body -->
-### &nbsp;About Me :
+### About Me :
 👾 Currently finishing my master's degree in Games Design & Programming with Unity and Unreal Engine!  
 🌱 I'm _kinda_ multidisciplinary: from studying Chemistry as an undergrad to completing a PGCert in Social Robotics and Human-Robot Interactions (HRI).  
 🤿 I **love** scuba diving, hiking and enjoying different foods from around the world!  
