@@ -11,11 +11,12 @@
 <!-- Badges -->
 <div id="badges">
   <p align="center">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><a href="www.linkedin.com/in/teresarodriguezm"></a> &nbsp&nbsp
-    <img src="https://img.shields.io/badge/X%20(Twitter)-grey?style=plastic&logo=x&logoColor=white" alt="Twitter/X Badge"/><a href="https://twitter.com/tere_wisdom"></a>  &nbsp&nbsp
-    <img src="https://img.shields.io/badge/My%20Games-violet?style=plastic" alt="Personal Website Badge"/><a href="https://teresarm.carrd.co/"></a>  &nbsp&nbsp&nbsp
-    <img src="https://img.shields.io/badge/Personal%20Website-purple?style=plastic" alt="Personal Website Badge"/><a href="https://teresarm.carrd.co/"></a>  &nbsp&nbsp&nbsp
-    <img src="https://img.shields.io/badge/Discord-darkblue?style=plastic&logo=discord&logoColor=white" alt="Discord Badge"/><a href="https://discord.com/users/759807783511654400"></a> &nbsp&nbsp
+    <a href="https://linkedin.com/in/teresarodriguezm"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>&nbsp&nbsp
+    <a href="https://twitter.com/tere_wisdom"><img src="https://img.shields.io/badge/X%20(Twitter)-grey?style=plastic&logo=x&logoColor=white" alt="Twitter/X Badge"/></a>&nbsp&nbsp
+    <a href="https://discord.com/users/759807783511654400"><img src="https://img.shields.io/badge/Discord-darkblue?style=plastic&logo=discord&logoColor=white" alt="Discord Badge"/></a>&nbsp&nbsp
+    <a href="https://itsteresa.itch.io/"><img src="https://img.shields.io/badge/My%20Games-violet?style=plastic" alt="Itch.io Portfolio"/></a>&nbsp&nbsp&nbsp
+    <a href="https://teresarm.carrd.co/"><img src="https://img.shields.io/badge/Personal%20Website-purple?style=plastic" alt="Personal Website Badge"/></a>&nbsp&nbsp&nbsp
+    <a href="https://play.google.com/store/apps/dev?id=9106694472686169862"><img src="https://img.shields.io/badge/Google%20Play%20Developer-darkgreen?style=plastic" alt="Google Play Developer Badge"/></a>&nbsp&nbsp&nbsp
   <p/>
 </div>
 </br>
@@ -27,7 +28,7 @@
 🤿 I **love** scuba diving, hiking and enjoying different foods from around the world!  
 🎮 Make sure to check out my [games on itch.io](https://itsteresa.itch.io/)!  
 👨‍💻 I also have a [personal website](https://teresarm.carrd.co/) that I update from time to time.  
-📫 Wanna collaborate, chat about games, or say hi? Feel free to reach out at [teresaromu1999@gmail.com](teresaromu1999@gmail.com) or hit me up on social media - I'd love to connect!  
+📫 Wanna collaborate, chat about games, or say hi? Feel free to reach out at _**teresaromu1999@gmail.com**_ or hit me up on social media - I'd love to connect!  
 
 ---
 
