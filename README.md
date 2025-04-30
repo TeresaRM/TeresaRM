@@ -25,8 +25,8 @@
 👾 Currently finishing my master's degree in Games Design & Programming with Unity and Unreal Engine!  
 🌱 I'm _kinda_ multidisciplinary: from studying Chemistry as an undergrad to completing a PGCert in Social Robotics and Human-Robot Interactions (HRI).  
 🤿 I **love** scuba diving, hiking and enjoying different foods from around the world!  
-🎮 Make sure to check out my [games on itch.io](https://itsteresa.itch.io/)!  
-👨‍💻 I also have a [personal website](https://teresarm.carrd.co/) that I update from time to time.  
+🎮 Make sure to check out my [games on itch.io](https://itsteresa.itch.io/)! You can also find me on the Google Play Store under the nickname [itsTeresa](https://play.google.com/store/apps/dev?id=9106694472686169862)!  
+👨‍💻 I have a [personal website](https://teresarm.carrd.co/) that I update from time to time.  
 📫 Wanna collaborate, chat about games, or say hi? Feel free to reach out at _**teresaromu1999@gmail.com**_ or hit me up on social media - I'd love to connect!  
 
 ---
