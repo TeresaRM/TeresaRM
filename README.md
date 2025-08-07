@@ -22,7 +22,7 @@
 
 <!-- Main Body -->
 ### About Me :
-👾 Currently finishing my master's degree in Games Design & Programming with Unity and Unreal Engine!  
+👾 Completed a Master's Degree in Games Design & Programming with Unity and Unreal Engine!  
 🌱 I'm _kinda_ multidisciplinary: from studying Chemistry as an undergrad to completing a PGCert in Social Robotics and Human-Robot Interactions (HRI).  
 🤿 I **love** scuba diving, hiking and enjoying different foods from around the world!  
 🎮 Make sure to check out my [games on itch.io](https://itsteresa.itch.io/)! You can also find me on the Google Play Store under the nickname [itsTeresa](https://play.google.com/store/apps/dev?id=9106694472686169862)!  
